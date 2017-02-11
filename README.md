@@ -23,6 +23,11 @@ You can run this code by typing `jupyter notebook` into terminal when you are in
 The coding challenge for this video is to use [this](https://www.kaggle.com/annavictoria/speed-dating-experiment) speed dating dataset to predict if someone gets a match or not. This dataset is labeled so 1 means they got a match and 0 means they didn't. Build a neural network capable of predicting a match given a new person. You can use any library you like, bonus points if you do this from scratch using only numpy. Record any data preprocessing steps you took in your README. Good luck! 
 
 
+##Credits
+
+The credits for this code go to [arundasan91](https://github.com/arundasan91) and [gfleetwood](https://github.com/gfleetwood). I've merely created a wrapper to get people started.
+
+
 
 
 
